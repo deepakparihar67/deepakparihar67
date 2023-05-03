@@ -8,7 +8,7 @@
       <img alt="Twitter Badge" src="https://img.shields.io/static/v1?label=&message=@deepakparihar67&color=E8EAEC&style=for-the-badge&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/deepakparihar67"/>
      </a>
     <a href="https://deepaksinghparihar.netlify.app/" target="_blank">
-      <img alt="Github Badge" src="https://img.shields.io/badge/-/portfolio-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://deepaksinghparihar.netlify.app/" />
+      <img alt="Github Badge" src="https://img.shields.io/badge/portfolio-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff=https://deepaksinghparihar.netlify.app/" />
      </a>
    </sup>
 </h2>

@@ -7,8 +7,8 @@
     <a href="https://twitter.com/deepakparihar67" target="_blank">
       <img alt="Twitter Badge" src="https://img.shields.io/static/v1?label=&message=@deepakparihar67&color=E8EAEC&style=for-the-badge&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/deepakparihar67"/>
      </a>
-    <a href="https://github.com/deepakparihar67" target="_blank">
-      <img alt="Github Badge" src="https://img.shields.io/badge/-/deepakparihar67-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/deepakparihar67" />
+    <a href="https://deepaksinghparihar.netlify.app/" target="_blank">
+      <img alt="Github Badge" src="https://img.shields.io/badge/-/portfolio-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://deepaksinghparihar.netlify.app/" />
      </a>
    </sup>
 </h2>
@@ -37,6 +37,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 ![Visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![sts](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
 
 ### Activity

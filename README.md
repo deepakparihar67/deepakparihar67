@@ -15,7 +15,7 @@
 
  ### About me
 
- - 🔭 **Working:** Java Full-Stack Developer working on Spring Boot, Microservices, ReactJS, javascript.
+ - 🔭 **Working:** Java Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working on Spring Boot, Microservices, ReactJS, javascript.
  - 🌱 **Learning:** Design Patterns | Microservices
  - 💬 **Ask me about:** Java | Spring 
 
